@@ -1,0 +1,1 @@
+The added functions are kinda self-explanatory but will add some simple examples in due time.
