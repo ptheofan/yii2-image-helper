@@ -1,6 +1,6 @@
 {
-    "name": "ptheofan/yii2-image",
-    "description": "A highly customisable system to make file-uploads management as trivial as it should be.",
+    "name": "ptheofan/yii2-image-helper",
+    "description": "Extending Yii2 ImageHelper and adding some much needed functions.",
     "type": "yii2-extension",
     "require": {
         "php": ">=7.4.0",
